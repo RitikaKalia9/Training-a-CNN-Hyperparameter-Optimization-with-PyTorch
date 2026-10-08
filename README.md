@@ -90,7 +90,4 @@ Or open it directly in **Google Colab** and enable a GPU runtime (`Runtime → C
 
 ---
 
-## Author
 
-**Ritika Kalia**
-Computer Science and Engineering, CCET Chandigarh
